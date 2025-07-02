@@ -34,7 +34,7 @@ Avant de commencer l'installation, assurez-vous d'avoir :
 
 ```bash
 # Cloner le repository
-git clone https://gitlab.com/Zuzog/mora-blog-tpe.git
+git clone https://github.com/Zuzog/Mora-Blog.git
 
 # OU télécharger le fichier TPE_BLOG.zip et l'extraire
 ```
