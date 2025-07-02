@@ -122,5 +122,3 @@ Les assets visuels (thème, images, CSS de base) ont été fournis pour permettr
 - [@Zuzog](https://github.com/Zuzog)
 
 ---
-
-*Projet réalisé dans un cadre éducatif - TPE 2024*
